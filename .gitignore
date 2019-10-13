@@ -1,0 +1,11 @@
+
+bufferflow_tinyg_old.md
+
+arduino-create-agent
+
+snapshot/*
+public/
+artifacts*
+
+# IDEs config 
+.idea
